@@ -1,0 +1,5 @@
+{
+  "dl": "https://crates.thesjq.com/api/v1/crates/{crate}/{version}/download",
+  "api": "https://crates.thesjq.com/",
+  "allowed-registries": ["https://github.com/rust-lang/crates.io-index"]
+}
